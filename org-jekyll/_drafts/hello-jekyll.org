@@ -1,0 +1,18 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
+#+BEGIN_HTML
+---
+layout: post
+title: Hello, Jekyll?
+excerpt: 
+categories:
+  -  
+tags:
+  -  
+published: false
+---
+#+END_HTML
+
+** An Attempt at a post from org
+   Does this work?  Is this thing on?  Anyone there?
